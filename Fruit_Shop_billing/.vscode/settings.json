@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\91800\\Downloads\\postgresql-42.7.3.jar"
+    ]
+}
